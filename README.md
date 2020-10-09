@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks so much for taking an interest in my Github. Below you can read a few things about me and what I am currently doing. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-wray/), [view my recent posts on my website](https://chriswray.dev), and if you would like, follow me on [Dev.to](https://dev.to/cwraytech) to read posts I write there.
+Thanks so much for taking an interest in my Github. Below you can read a few things about me and what I am currently doing. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-wray/), view recent posts [on my website](https://chriswray.dev/posts), and if you would like, follow me on [Dev.to](https://dev.to/cwraytech) to read posts I write there.
 <!--
 **cwray-tech/cwray-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
