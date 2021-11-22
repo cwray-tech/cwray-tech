@@ -1,5 +1,4 @@
 ### I'm a human!
-![](https://github.com/cwray-tech/stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/cwray-tech/stats/blob/master/generated/languages.svg)
 
