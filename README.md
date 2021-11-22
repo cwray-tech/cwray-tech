@@ -1,8 +1,8 @@
 ### I'm a human!
-Can you believe it? 
+![](https://github.com/cwray-tech/stats/blob/master/generated/overview.svg)
 
-That's right! 
+![](https://github.com/cwray-tech/stats/blob/master/generated/languages.svg)
 
 [Learn more about me here.](https://chriswray.dev)
 
-![](https://github.com/cwray-tech/stats/blob/master/generated/languages.svg)
+
