@@ -1,5 +1,8 @@
 # Chris Wray
 
+I'm a software engineer for a health and wellness startup called The St James. I work on our API that serves 4 different frontends, and I get to work on our web frontends as well. Our tech stack is Laravel (PHP), MariaDB, and Redis on the backend. On the Frontend we use NuxtJS and Vue 3 with TypeScript.
+
+I really enjoy building products that help people with their work. One project I've had the pleasure of spearheading and building is a Nursery management application for my families farm. This app integrates with QuickBooks Desktop, and their entire nursery is managed through the app- like inventory, sales, customers, ect. I still work on this part time.
 
 [Learn more about me on my website.](https://chriswray.dev)
 
