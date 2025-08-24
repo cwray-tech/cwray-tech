@@ -4,6 +4,8 @@ I'm a software engineer for a health and wellness startup called [The St James](
 
 I really enjoy building products that help people with their work. One project I've had the pleasure of spearheading and building is a nursery management application for my families farm. This app integrates with QuickBooks Desktop, and their entire nursery is managed through the app- like inventory, sales, customers, ect. I still work on this part time.
 
-[Learn more about me on my website.](https://chriswray.dev)
+I'm also working on a side project called ClubKey. It's a loyalty and rewards app for cafes and restaurants.
 
+I'm married and love my wife Areli. She is an amazing mom of our four children.
 
+Over the years I've been blessed by God's grace in many ways. One, saved by Christ's work. Two, given an amazing family. Three, gone through multiple health struggles and have experienced restoration and healing in my physical body. 
