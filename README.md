@@ -25,3 +25,5 @@ I can combine technical skills with empathy for the end user and the business.
 
 
 Long term, I’m interested in roles that blend engineering with product thinking—where I can help shape what we build, not just how we build it.
+
+https://chatgpt.com/share/691767ed-00a4-800e-a89e-87cd235356a8
